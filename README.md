@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Cleven 👋
 
-<!--
-**darkseveral12/darkseveral12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT student exploring full-stack development with MERN and TypeScript.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- JavaScript / TypeScript
+- React
+- Node.js & Express
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build real-world applications
+- Improve backend and frontend skills
+- Write clean and maintainable code
+
+## 📫 Connect
+- GitHub: https://github.com/darkseveral12
