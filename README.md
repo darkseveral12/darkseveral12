@@ -1,6 +1,6 @@
 # Hi, I’m Cleven 👋
 
-I’m an IT student exploring full-stack development with MERN and TypeScript.
+I’m a first year IT student exploring full-stack development with MERN and TypeScript.
 
 ## 🌱 Currently Learning
 - JavaScript / TypeScript
