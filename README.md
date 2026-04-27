@@ -1,6 +1,6 @@
 # Hi, I’m Cleven 👋
-
 I’m a first year IT student exploring full-stack development with MERN and TypeScript.
+
 
 ## 🌱 Currently Learning
 - JavaScript / TypeScript
@@ -15,3 +15,4 @@ I’m a first year IT student exploring full-stack development with MERN and Typ
 
 ## 📫 Connect
 - GitHub: https://github.com/darkseveral12
+- Facebook: https://www.facebook.com/aizen.sosuke.291559
