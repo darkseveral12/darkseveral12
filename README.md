@@ -3,10 +3,9 @@ I’m a first year IT student exploring full-stack development with MERN and Typ
 
 
 ## 🌱 Currently Learning
-- JavaScript / TypeScript
-- React
-- Node.js & Express
-- MongoDB
+- NestJS
+- Prisma
+- PostgreSQL
 
 ## 🎯 Goals
 - Build real-world applications
