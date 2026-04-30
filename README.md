@@ -30,10 +30,9 @@ I'm building my foundation in full-stack web development with a focus on backend
   <img src="https://skillicons.dev/icons?i=prisma" width="48" title="Prisma"/>
   <img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>
   <img src="https://skillicons.dev/icons?i=postman" width="48" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" title="Vercel"/>
 </p>
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ---
 
 ## 📚 Currently Learning
