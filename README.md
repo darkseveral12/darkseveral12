@@ -48,7 +48,7 @@ I'm building my foundation in full-stack web development with a focus on backend
 - Deepen knowledge of backend architecture and system design
 - Write clean, scalable, and maintainable code
 - Become job-ready as a backend / full-stack developer
-
+- Learning game development like Roblox studio
 ---
 
 [GitHub](https://github.com/darkseveral12) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/aizen.sosuke.291559)
