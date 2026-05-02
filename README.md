@@ -40,7 +40,7 @@ I'm building my foundation in full-stack web development with a focus on backend
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ---
 
 ## 🎯 Goals
