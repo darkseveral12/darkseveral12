@@ -52,3 +52,4 @@ I'm building my foundation in full-stack web development with a focus on backend
 ---
 
 [GitHub](https://github.com/darkseveral12) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/aizen.sosuke.291559)
+[Youtube](https://www.youtube.com/@JeffTheDev-s) &nbsp;·&nbsp;
