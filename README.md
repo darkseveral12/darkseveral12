@@ -1,7 +1,7 @@
 # Hi, I'm Cleven 👋
 **2nd-year IT student · Full-stack developer in progress**
 
-I'm building my foundation in full-stack web development with a focus on backend architecture and clean, maintainable code. Currently exploring **NestJS**, **Prisma ORM**, and **PostgreSQL** while strengthening my TypeScript skills across the stack.
+I'm building my foundation in full-stack web development with a focus on backend architecture and clean, maintainable code. Currently exploring **Prisma ORM**, and **PostgreSQL** while strengthening my TypeScript skills across the stack.
 
 ---
 
