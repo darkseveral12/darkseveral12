@@ -20,7 +20,6 @@ I'm building my foundation in full-stack web development with a focus on backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" width="48" title="Express"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" width="48" title="NestJS"/>
 </p>
 
 ### Database & Tools
